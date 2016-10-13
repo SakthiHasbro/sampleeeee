@@ -26,15 +26,6 @@ namespace CSHelloWorldUniversalApp
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
     public sealed partial class MainPage : Page
-    {
-        public MainPage()
-        {
-            this.InitializeComponent();
-        }
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\dddddd
 
-        private void inputButton_Click(object sender, RoutedEventArgs e)
-        {
-            /////greetingOutput.Text = "Hello, " + nameInput.Text + "!";
-        }
-    }
-}
+hai this is sample.....if the changes okay merge
